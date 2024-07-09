@@ -1,1 +1,1 @@
-created my javascript file
+console.log("hello my dear");
