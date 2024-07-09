@@ -1,1 +1,1 @@
-java
+console.log("hai");
